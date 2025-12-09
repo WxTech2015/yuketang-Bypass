@@ -30,7 +30,7 @@ node index.js
 
 ## 🛠️ 项目说明
 
-本项目基于 **irm v.qaq.al/ykt | iex 脚本** 进行离线化与 **Node.js 重构**，旨在提供更稳定、可扩展的功能体验。
+本项目基于 **irm v.qaq.al/ykt | iex 脚本** 进行离线化与 **Node.js 重构** (在线脚本使用教程 https://www.illusory.cn/index.php/archives/128/)。
 
 ---
 
